@@ -16,10 +16,12 @@ Setup:
 2. Click on the three Dots on the Right Courner of the script window
 3. click on Setup
 4. Go to the gameobject that you want to combine (the gameobject must have a mesh filter and Mesh renderer on it to function) and click allow on the AllowCombine Script.
-   Combing:
-6. Go Back to the gameobject with MeshCombiner on it.
-7. Click on the three Dots on the Right Courner of the script window
-8. Click On Combine
+   
+Combing:
+   
+1. Go Back to the gameobject with MeshCombiner on it.
+2. Click on the three Dots on the Right Courner of the script window
+3. Click On Combine
 
 
 Saving Meshs:
