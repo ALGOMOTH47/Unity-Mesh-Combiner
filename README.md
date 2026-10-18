@@ -10,6 +10,7 @@ MeshCombiner Script
 AllowCombine Script
 
 Useage:
+
 Setup:
 1. Crete a Empty Game Object And add the MeshCombiner Script on the gameobject
 2. Click on the three Dots on the Right Courner of the script window
