@@ -7,6 +7,7 @@ This allows you to convert multible meshs into one draw call for the GPU.
 This Package Includes:  
 
 MeshCombiner Script
+
 AllowCombine Script
 
 Useage:
